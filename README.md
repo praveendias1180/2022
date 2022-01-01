@@ -30,3 +30,9 @@ https://en.wikipedia.org/wiki/New_Year%27s_resolution
 https://en.wikipedia.org/wiki/Janus
 
 Believing that Janus symbolically looked backwards into the previous year and ahead into the future, the Romans offered sacrifices to the deity and made promises of **good conduct for the coming year**. (or more coding!)
+
+# Blame It on the Brain
+
+https://www.wsj.com/articles/SB10001424052748703478704574612052322122442
+
+The only way to fix willpower flaws is to know about them. Know yourself.
