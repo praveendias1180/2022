@@ -28,3 +28,5 @@ https://en.wikipedia.org/wiki/New_Year%27s_resolution
 ![Janus](Janus.png)
 
 https://en.wikipedia.org/wiki/Janus
+
+Believing that Janus symbolically looked backwards into the previous year and ahead into the future, the Romans offered sacrifices to the deity and made promises of **good conduct for the coming year**. (or more coding!)
